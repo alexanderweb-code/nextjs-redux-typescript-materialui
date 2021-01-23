@@ -81,6 +81,3 @@ vi ./deploy-appengine.sh
 ./deploy-appengine.sh
 ```
 
-## Related repository
-
-* [typescript-nextjs-redux-toolkit-material-ui-example](https://github.com/treetips/typescript-nextjs-redux-toolkit-material-ui-example)
